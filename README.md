@@ -14,11 +14,10 @@
 
 ---
 - **Title**: Impression in black and yellow
-- **Date**:- 
-**Number**: 3- 0
-- **Medium**: Acrylic on canvas board 
-
-**Size**: 16x20
+- **Date**:
+- **Number**: 230
+- **Medium**: Acrylic on Canvas
+- **Size**: 16x20
 
 <img 
        alt=''
@@ -30,11 +29,10 @@
 
 ---
 - **Title**: Family by night
-- **Date**:- 
-**Number**: 0- 7
-- **Medium**: Acrylic on canvas
-
-**Size**: 16x20
+- **Date**:
+- **Number**: 207
+- **Medium**: Acrylic on Canvas
+- **Size**: 16x20
 
 <img 
        alt=''
@@ -46,11 +44,10 @@
 
 ---
 - **Title**: 
-- **Date**: - 
-**Number**: 15- 
+- **Date**: 
+- **Number**: 155 
 - **Medium**: 
-
-**Size**: 
+- **Size**: 
 
 <img 
        alt=''
@@ -77,12 +74,10 @@
 
 ---
 - **Title**: 
-- **Date**: - 
-**Number**: 5
-- 
-*M- edium**: 
-
-**Size**: 
+- **Date**: 
+- **Number**: 53
+- **Medium**: 
+- **Size**: 
 
 <img 
        alt=''
@@ -109,12 +104,10 @@
 
 ---
 - **Title**: Untitled
-- **Date**: - 
-**Number**: 
-- 
-*M- edium**: Acrylic on canvas
-
-**Size**: 16x20 
+- **Date**: 
+- **Number**: 3
+- **Medium**: Acrylic on Canvas
+- **Size**: 16x20 
 
 <img 
        alt=''
@@ -126,11 +119,10 @@
 
 ---
 - **Title**: 
-- **Date**: - 
-**Number**: 13- 
+- **Date**: 
+- **Number**: 163
 - **Medium**: 
-
-**Size**: 
+- **Size**: 
 
 <img 
        alt=''
@@ -142,11 +134,10 @@
 
 ---
 - **Title**: 
-- **Date**: - 
-**Number**: 13- 
+- **Date**: 
+- **Number**: 173
 - **Medium**: 
-
-**Size**: 
+- **Size**: 
 
 <img 
        alt=''
@@ -158,11 +149,10 @@
 
 ---
 - **Title**: The Splash
-- **Date**: - 
-**Number**: 24- 
+- **Date**: 
+- **Number**: 204
 - **Medium**: Acrylic on canvas
-
-**Size**: 16x20
+- **Size**: 16x20
 
 <img 
        alt=''
@@ -170,15 +160,14 @@
        src='https://instagram.fybz2-2.fna.fbcdn.net/v/t51.2885-15/e35/p240x240/50964899_110380980060774_7440460977992546667_n.jpg?_nc_ht=instagram.fybz2-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=S5-eXqT9YIkAX-fPP6M&oh=66c8d60e71238a252f978e7bc963a02b&oe=5EFA46CE&ig_cache_key=MTk2MzI4ODk2MTc5OTYyMTgxNA%3D%3D.2'
 />
 
-[Instagram](https://www.instagram.com/p/Bs_AOingwy2/https://www.instagram.com/p/Bs_AOingwy2/)
+[Instagram](https://www.instagram.com/p/Bs_AOingwy2/)
 
 ---
 - **Title**: Splash
-- **Date**: - 
-**Number**: 26- 
+- **Date**: 
+- **Number**: 266
 - **Medium**: Acrylic on canvas 
-
-**Size**: 16x20 
+- **Size**: 16x20 
 
 <img 
        alt=''
@@ -220,11 +209,10 @@
 
 ---
 - **Title**: Untitled
-- **Date**: - 
-**Number**: 4?- 
+- **Date**: 
+- **Number**: 48? 
 - **Medium**: Acrylic on canvas
-
-**Size**: 16x20
+- **Size**: 16x20
 
 <img 
        alt=''
@@ -237,11 +225,10 @@
 ---
 
 - **Title**: Razorheads
-- **Date**: - 
-**Number**: 37- 
-- **Medium**: Acrylic on canvas
-
-**Size**: 16x20
+- **Date**: 
+- **Number**: 347 
+- **Medium**: Acrylic on Canvas
+- **Size**: 16x20
 
 <img 
        alt=''
